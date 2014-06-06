@@ -4,5 +4,7 @@
     <string name="app_name">AndroidBootcamp</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name= "edit_message">Enter a search query</string>
+    <string name= "button_search">Search</string>
 
 </resources>
